@@ -1,0 +1,36 @@
+body {
+	max-width: 800px;
+	margin: 0 auto;
+	background-image: url(../images/background.png);
+	background-repeat: repeat-x;
+	font-family: 'verdana';
+	}
+	
+ul {
+	list-style: none;
+	font-size: 1.125em;
+	}
+
+h1 {
+	font-size: 1.125em;
+	}
+	
+table {
+	border-collapse: collapse;
+	}
+	
+td {
+	border: 1px solid #000000;
+	text-align: center;
+	padding: 0.5em;
+	}
+	
+th {
+	text-align: center;
+	border: 1px solid #000000;
+	padding: 0.5em;
+	}
+
+.odd {
+	background-color: #D8D8D8;
+	}
